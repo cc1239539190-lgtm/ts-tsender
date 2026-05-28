@@ -23,6 +23,7 @@ package-lock.json
 .DS_Store
 *.pem
 *.log
+public/*.svg
 
 # debug
 npm-debug.log*
